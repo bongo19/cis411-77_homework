@@ -56,3 +56,4 @@ C:\Users\felicitybongo\Desktop\GitHub\cis411-77_homework\homework5\MvcMovie\MvcM
 C:\Users\felicitybongo\Desktop\GitHub\cis411-77_homework\homework5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
 C:\Users\felicitybongo\Desktop\GitHub\cis411-77_homework\homework5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
 C:\Users\felicitybongo\Desktop\GitHub\cis411-77_homework\homework5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\felicitybongo\Desktop\GitHub\cis411-77_homework\homework5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
